@@ -1,0 +1,34 @@
+# dht-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|182624|1.48%|
+|Night_Elf_Haste|182054|1.17%|
+|Goblin|182024|1.15%|
+|Gnome|182015|1.14%|
+|Mechagnome|181814|1.03%|
+|Void_Elf|181722|0.98%|
+|Highmountain_Tauren|181646|0.94%|
+|Kul_Tiran|181636|0.93%|
+|Nightborne|181538|0.88%|
+|Dwarf|181489|0.85%|
+|Tauren|181489|0.85%|
+|Troll|181363|0.78%|
+|Blood_Elf|181341|0.77%|
+|Zandalari_Troll_Paku|181337|0.77%|
+|Night_Elf_Crit|181315|0.76%|
+|Worgen|181272|0.73%|
+|Draenei|181103|0.64%|
+|Orc|181014|0.59%|
+|Panda_Vers|181001|0.58%|
+|Panda_Haste|180959|0.56%|
+|Dark_Iron_Dwarf|180790|0.46%|
+|Panda_Fortune_Cookie|180785|0.46%|
+|Panda_Crit|180716|0.42%|
+|Maghar_Orc|180567|0.34%|
+|Panda_Mastery|180509|0.31%|
+|Zandalari_Troll_Bwonsamdi|180324|0.20%|
+|Undead|180288|0.18%|
+|Zandalari_Troll_Kimbul|180274|0.18%|
+|Lightforged_Draenei|180055|0.06%|
+|Base|179956|0.00%|
+|Vulpera|179914|-0.02%|

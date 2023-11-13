@@ -1,0 +1,34 @@
+# tott-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|229264|1.09%|
+|Goblin|228872|0.92%|
+|Gnome|228828|0.90%|
+|Troll|228658|0.83%|
+|Mechagnome|228655|0.83%|
+|Night_Elf_Haste|228626|0.81%|
+|Void_Elf|228513|0.76%|
+|Kul_Tiran|228503|0.76%|
+|Highmountain_Tauren|228465|0.74%|
+|Dwarf|228326|0.68%|
+|Blood_Elf|228229|0.64%|
+|Nightborne|228223|0.63%|
+|Tauren|228220|0.63%|
+|Zandalari_Troll_Paku|228177|0.61%|
+|Night_Elf_Crit|228103|0.58%|
+|Worgen|228022|0.55%|
+|Draenei|227996|0.53%|
+|Orc|227958|0.52%|
+|Panda_Vers|227747|0.43%|
+|Panda_Haste|227702|0.41%|
+|Dark_Iron_Dwarf|227659|0.39%|
+|Panda_Crit|227594|0.36%|
+|Panda_Fortune_Cookie|227518|0.32%|
+|Maghar_Orc|227477|0.31%|
+|Panda_Mastery|227324|0.24%|
+|Undead|227126|0.15%|
+|Zandalari_Troll_Bwonsamdi|227037|0.11%|
+|Zandalari_Troll_Kimbul|226908|0.06%|
+|Vulpera|226849|0.03%|
+|Lightforged_Draenei|226821|0.02%|
+|Base|226783|0.00%|

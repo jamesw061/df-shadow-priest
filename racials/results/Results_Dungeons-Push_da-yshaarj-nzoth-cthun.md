@@ -1,0 +1,34 @@
+# Dungeons-Push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|197860|1.06%|
+|Tauren|197528|0.89%|
+|Dwarf|197512|0.88%|
+|Mechagnome|197459|0.86%|
+|Goblin|197336|0.79%|
+|Gnome|197329|0.79%|
+|Night_Elf_Haste|197314|0.78%|
+|Void_Elf|197276|0.76%|
+|Kul_Tiran|197276|0.76%|
+|Highmountain_Tauren|197276|0.76%|
+|Troll|197211|0.73%|
+|Nightborne|197190|0.72%|
+|Zandalari_Troll_Paku|197129|0.69%|
+|Blood_Elf|197118|0.68%|
+|Orc|197032|0.64%|
+|Night_Elf_Crit|197029|0.64%|
+|Worgen|197004|0.63%|
+|Draenei|196838|0.54%|
+|Dark_Iron_Dwarf|196624|0.43%|
+|Panda_Vers|196600|0.42%|
+|Maghar_Orc|196542|0.39%|
+|Panda_Crit|196512|0.37%|
+|Panda_Fortune_Cookie|196488|0.36%|
+|Panda_Haste|196296|0.26%|
+|Panda_Mastery|196295|0.26%|
+|Zandalari_Troll_Bwonsamdi|196083|0.15%|
+|Undead|196040|0.13%|
+|Zandalari_Troll_Kimbul|196036|0.13%|
+|Vulpera|195819|0.02%|
+|Base|195780|0.00%|
+|Lightforged_Draenei|195777|0.00%|

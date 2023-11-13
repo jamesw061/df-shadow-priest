@@ -1,0 +1,34 @@
+# galakrond-tyran-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|193628|1.26%|
+|Mechagnome|192951|0.90%|
+|Goblin|192940|0.90%|
+|Gnome|192894|0.87%|
+|Troll|192846|0.85%|
+|Night_Elf_Haste|192816|0.83%|
+|Kul_Tiran|192782|0.82%|
+|Highmountain_Tauren|192764|0.81%|
+|Void_Elf|192743|0.80%|
+|Tauren|192675|0.76%|
+|Dwarf|192651|0.75%|
+|Blood_Elf|192552|0.70%|
+|Zandalari_Troll_Paku|192549|0.69%|
+|Nightborne|192511|0.67%|
+|Night_Elf_Crit|192450|0.64%|
+|Worgen|192437|0.64%|
+|Orc|192436|0.63%|
+|Draenei|192322|0.58%|
+|Panda_Vers|192022|0.42%|
+|Panda_Haste|192010|0.41%|
+|Maghar_Orc|191981|0.40%|
+|Dark_Iron_Dwarf|191967|0.39%|
+|Panda_Fortune_Cookie|191935|0.37%|
+|Panda_Mastery|191867|0.34%|
+|Panda_Crit|191852|0.33%|
+|Zandalari_Troll_Bwonsamdi|191668|0.23%|
+|Zandalari_Troll_Kimbul|191518|0.15%|
+|Undead|191498|0.14%|
+|Vulpera|191317|0.05%|
+|Lightforged_Draenei|191251|0.02%|
+|Base|191222|0.00%|

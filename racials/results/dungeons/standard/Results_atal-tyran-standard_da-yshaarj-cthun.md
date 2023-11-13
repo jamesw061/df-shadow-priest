@@ -1,0 +1,34 @@
+# atal-tyran-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|188823|0.87%|
+|Troll|188583|0.74%|
+|Tauren|188564|0.73%|
+|Dwarf|188557|0.72%|
+|Goblin|188511|0.70%|
+|Night_Elf_Haste|188493|0.69%|
+|Gnome|188459|0.67%|
+|Mechagnome|188458|0.67%|
+|Highmountain_Tauren|188354|0.62%|
+|Void_Elf|188337|0.61%|
+|Kul_Tiran|188276|0.57%|
+|Night_Elf_Crit|188269|0.57%|
+|Nightborne|188268|0.57%|
+|Blood_Elf|188171|0.52%|
+|Orc|188171|0.52%|
+|Zandalari_Troll_Paku|188139|0.50%|
+|Worgen|188122|0.49%|
+|Dark_Iron_Dwarf|188010|0.43%|
+|Draenei|187968|0.41%|
+|Maghar_Orc|187848|0.35%|
+|Panda_Crit|187755|0.30%|
+|Panda_Fortune_Cookie|187746|0.29%|
+|Panda_Vers|187729|0.28%|
+|Panda_Haste|187720|0.28%|
+|Panda_Mastery|187636|0.23%|
+|Zandalari_Troll_Bwonsamdi|187424|0.12%|
+|Zandalari_Troll_Kimbul|187402|0.11%|
+|Undead|187395|0.10%|
+|Lightforged_Draenei|187237|0.02%|
+|Vulpera|187232|0.02%|
+|Base|187202|0.00%|

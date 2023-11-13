@@ -1,0 +1,34 @@
+# atal-fort-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|188795|0.83%|
+|Mechagnome|188640|0.74%|
+|Tauren|188611|0.73%|
+|Troll|188571|0.71%|
+|Gnome|188562|0.70%|
+|Night_Elf_Haste|188536|0.69%|
+|Dwarf|188532|0.69%|
+|Goblin|188461|0.65%|
+|Highmountain_Tauren|188312|0.57%|
+|Kul_Tiran|188296|0.56%|
+|Void_Elf|188282|0.55%|
+|Blood_Elf|188267|0.54%|
+|Orc|188204|0.51%|
+|Zandalari_Troll_Paku|188195|0.51%|
+|Nightborne|188170|0.49%|
+|Night_Elf_Crit|188148|0.48%|
+|Worgen|188137|0.48%|
+|Draenei|188054|0.43%|
+|Dark_Iron_Dwarf|187922|0.36%|
+|Maghar_Orc|187920|0.36%|
+|Panda_Vers|187854|0.32%|
+|Panda_Fortune_Cookie|187808|0.30%|
+|Panda_Crit|187723|0.25%|
+|Panda_Mastery|187684|0.23%|
+|Panda_Haste|187680|0.23%|
+|Zandalari_Troll_Bwonsamdi|187488|0.13%|
+|Zandalari_Troll_Kimbul|187400|0.08%|
+|Undead|187397|0.08%|
+|Base|187247|0.00%|
+|Vulpera|187219|-0.01%|
+|Lightforged_Draenei|187218|-0.02%|

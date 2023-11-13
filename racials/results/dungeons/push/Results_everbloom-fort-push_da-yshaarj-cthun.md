@@ -1,0 +1,34 @@
+# everbloom-fort-push - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|226639|0.86%|
+|Dwarf|226306|0.71%|
+|Tauren|226286|0.70%|
+|Mechagnome|226197|0.66%|
+|Goblin|226040|0.59%|
+|Highmountain_Tauren|226040|0.59%|
+|Gnome|226032|0.59%|
+|Kul_Tiran|226030|0.59%|
+|Night_Elf_Haste|226006|0.58%|
+|Troll|225948|0.55%|
+|Nightborne|225921|0.54%|
+|Void_Elf|225893|0.53%|
+|Zandalari_Troll_Paku|225881|0.52%|
+|Blood_Elf|225858|0.51%|
+|Worgen|225806|0.49%|
+|Night_Elf_Crit|225745|0.46%|
+|Orc|225721|0.45%|
+|Draenei|225681|0.43%|
+|Dark_Iron_Dwarf|225411|0.31%|
+|Panda_Crit|225368|0.30%|
+|Maghar_Orc|225350|0.29%|
+|Panda_Vers|225307|0.27%|
+|Panda_Fortune_Cookie|225294|0.26%|
+|Panda_Mastery|225014|0.14%|
+|Undead|224934|0.10%|
+|Panda_Haste|224931|0.10%|
+|Zandalari_Troll_Bwonsamdi|224776|0.03%|
+|Zandalari_Troll_Kimbul|224741|0.02%|
+|Base|224705|0.00%|
+|Lightforged_Draenei|224641|-0.03%|
+|Vulpera|224549|-0.07%|

@@ -18,10 +18,10 @@ fightExpressions = {
     "sa": 'raid_events+=/adds,count=3,first=45,cooldown=45,duration=10,distance=5',
     "1": 'desired_targets=1',
     "2": 'desired_targets=2',
-    "4": 'desired_targets=4',
+    "3": 'enemy=Fluffy_Pillow\nenemy=enemy2\nenemy=enemy3\nraid_events+=/move_enemy,enemy_name=enemy3,cooldown=2000,duration=1000,x=-27,y=-27',  # noqa: E501
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": 'ptr=1\n',
-    "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'
+    "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"'  # noqa: E501
 }
 
 
@@ -55,7 +55,13 @@ def build_settings(profile_name_string, weights, dungeons):
         settings_string += fightExpressions['weights']
     if dungeons:
         season = config["dungeonSeason"]
-        r_file_location = f"internal/routes/season{season}/{profile_name_string}.simc"
+        if "standard" in profile_name_string:
+            r_file_location = f"internal/routes/season{season}/standard/{profile_name_string}.simc"  # noqa: E501
+        elif "push" in profile_name_string:
+            r_file_location = f"internal/routes/season{season}/push/{profile_name_string}.simc"  # noqa: E501
+        else:
+            print(f"Profile name is non-standard: {profile_name_string}")
+            exit(1)
         with open(r_file_location, 'r', encoding="utf8") as r_file:
             data = r_file.read()
             r_file.close()
@@ -82,7 +88,6 @@ def generate_stat_string(stat_distribution, name):
 
 
 def build_stats_files():
-    # pylint: disable=too-many-locals
     """Build generated.simc stats file from stats.simc"""
     sim_file = 'stats.simc'
     base_file = f"{args.dir}{sim_file}"
@@ -100,6 +105,19 @@ def build_stats_files():
             "haste": generate_stat_string(dist, "haste"),
             "crit": generate_stat_string(dist, "crit")
         }
+        haste = int(combination.get("haste").split("=")[1])
+        mastery = int(combination.get("mastery").split("=")[1])
+        vers = int(combination.get("versatility").split("=")[1])
+        crit = int(combination.get("crit").split("=")[1])
+        # remove profiles with too low haste/mastery
+        if haste < config["stats"]["min"]["haste"]:
+            continue
+        if mastery < config["stats"]["min"]["mastery"]:
+            continue
+        if vers < config["stats"]["min"]["vers"]:
+            continue
+        if crit < config["stats"]["min"]["crit"]:
+            continue
         rating_combinations.append(combination)
     print(f"Simming {len(rating_combinations)} number of combinations")
     output_file = f"{args.dir}/generated.simc"
@@ -138,6 +156,7 @@ def replace_talents(talent_string, data):
 
 def replace_gear(data):
     """replaces gear based on the default in config"""
+    # replace gear
     for slot in config["gear"]:
         if slot == "off_hand":
             if config["gear"][slot] != "":
@@ -147,6 +166,13 @@ def replace_gear(data):
             data = data.replace(f"${{gear.{slot}}}", replacement_string)
         else:
             data = data.replace(f"${{gear.{slot}}}", config["gear"][slot])
+    # replace gems
+    for gem in config["gems"]:
+        data = data.replace(f"${{gems.{gem}}}", config["gems"][gem])
+    # replace enchants
+    for enchant in config["enchants"]:
+        data = data.replace(f"${{enchants.{enchant}}}",
+                            config["enchants"][enchant])
     return data
 
 
@@ -167,17 +193,16 @@ def create_talent_builds():
 
 
 def build_profiles(talent_string, apl_string):
-    # pylint: disable=R0912, too-many-locals, too-many-statements, line-too-long, too-many-nested-blocks, simplifiable-if-statement
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2", "4"]
+    targets = ["1", "2", "3"]
     overrides = ""
     with open("internal/overrides.simc", 'r', encoding="utf8") as overrides_file:
         overrides = overrides_file.read()
         overrides_file.close()
     combinations = [
-        f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets
+        f"{fight}_{add}_{tar}" for fight in fight_styles for add in add_types for tar in targets  # noqa: E501
     ]
     sim_files = config["sims"][args.dir[:-1]]["files"]
 
@@ -210,9 +235,11 @@ def build_profiles(talent_string, apl_string):
                 config["singleTargetWeights"]).get(profile) or 0
             two_target_weight = find_weights(
                 config["twoTargetWeights"]).get(profile) or 0
+            three_target_weight = find_weights(
+                config["threeTargetWeights"]).get(profile) or 0
             four_target_weight = find_weights(
                 config["fourTargetWeights"]).get(profile) or 0
-            if weight == 0 and st_weight == 0 and two_target_weight == 0 and four_target_weight == 0 and not args.dungeons:
+            if weight == 0 and st_weight == 0 and two_target_weight == 0 and three_target_weight == 0 and four_target_weight == 0 and not args.dungeons:  # noqa: E501
                 # print(f"Skipping profile {profile} weights are all 0.")
                 continue
 
@@ -234,8 +261,8 @@ def build_profiles(talent_string, apl_string):
                 elif target_count == 2:
                     new_talents = config["builds"][talent_string]["2t"]
                     sim_data = replace_talents(new_talents, sim_data)
-                elif target_count == 4:
-                    new_talents = config["builds"][talent_string]["4t"]
+                elif target_count == 3:
+                    new_talents = config["builds"][talent_string]["3t"]
                     sim_data = replace_talents(new_talents, sim_data)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data)

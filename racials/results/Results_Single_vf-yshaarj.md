@@ -1,0 +1,34 @@
+# Single - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|204986|1.51%|
+|Troll|204330|1.18%|
+|Void_Elf|204249|1.14%|
+|Tauren|204115|1.08%|
+|Dwarf|204079|1.06%|
+|Goblin|204069|1.05%|
+|Gnome|204056|1.05%|
+|Night_Elf_Haste|204012|1.03%|
+|Blood_Elf|203996|1.02%|
+|Mechagnome|203983|1.01%|
+|Kul_Tiran|203864|0.95%|
+|Highmountain_Tauren|203848|0.94%|
+|Zandalari_Troll_Paku|203782|0.91%|
+|Nightborne|203779|0.91%|
+|Orc|203676|0.86%|
+|Night_Elf_Crit|203600|0.82%|
+|Worgen|203573|0.81%|
+|Draenei|203341|0.69%|
+|Dark_Iron_Dwarf|203226|0.64%|
+|Panda_Haste|202966|0.51%|
+|Maghar_Orc|202957|0.50%|
+|Panda_Vers|202943|0.50%|
+|Panda_Crit|202931|0.49%|
+|Panda_Fortune_Cookie|202817|0.43%|
+|Panda_Mastery|202684|0.37%|
+|Zandalari_Troll_Bwonsamdi|202329|0.19%|
+|Undead|202306|0.18%|
+|Zandalari_Troll_Kimbul|202286|0.17%|
+|Base|201942|0.00%|
+|Lightforged_Draenei|201932|-0.01%|
+|Vulpera|201920|-0.01%|

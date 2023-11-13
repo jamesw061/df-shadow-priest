@@ -62,7 +62,7 @@ def get_api_key(args, simc_build_version):
         if is_executable(executable):
             return executable
         print(
-            f"{executable} not a valid executable please check your local_secrets.py or your path")
+            f"{executable} not a valid executable please check your local_secrets.py and PATH")  # noqa: E501
         sys.exit()
     else:
         return api_secrets.api_key
@@ -74,7 +74,6 @@ def is_executable(path):
 
 
 def run_sims(args, iterations, talent):
-    # pylint: disable=import-outside-toplevel,too-many-locals
     """run sims with the given config"""
     if args.local:
         from internal.simc import raidbots
@@ -89,6 +88,7 @@ def run_sims(args, iterations, talent):
     count = 0
 
     for profile in profiles:
+        print(profile)
         if args.dungeons:
             profile_name = profile
         else:
@@ -101,6 +101,8 @@ def run_sims(args, iterations, talent):
             weight += find_weights(config["singleTargetWeights"]
                                    ).get(profile_name) or 0
             weight += find_weights(config["twoTargetWeights"]
+                                   ).get(profile_name) or 0
+            weight += find_weights(config["threeTargetWeights"]
                                    ).get(profile_name) or 0
             weight += find_weights(config["fourTargetWeights"]
                                    ).get(profile_name) or 0
@@ -119,7 +121,7 @@ def run_sims(args, iterations, talent):
             # prefix the profile name with the base file name
             profile_name_with_dir = f"{args.dir}{profile_name}"
             raidbots(get_api_key(args, config["simcBuild"]), profile_location,
-                     config["simcBuild"], output_location, profile_name_with_dir, iterations)
+                     config["simcBuild"], output_location, profile_name_with_dir, iterations)  # noqa: E501
         elif weight == 0:
             print(f"-- {output_name} has a weight of 0. Skipping file.")
         else:
@@ -138,7 +140,6 @@ def analyze_data(args, talent, weights):
 
 
 def main():
-    # pylint: disable=import-outside-toplevel,too-many-branches,unsupported-assignment-operation,duplicate-code
     """main function, runs and parses sims"""
     parser = utils.generate_parser("Parses a list of reports from Raidbots.")
     args = parser.parse_args()

@@ -1,0 +1,34 @@
+# galakrond-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|193575|1.23%|
+|Goblin|193019|0.94%|
+|Gnome|192945|0.91%|
+|Night_Elf_Haste|192926|0.90%|
+|Mechagnome|192921|0.89%|
+|Highmountain_Tauren|192792|0.83%|
+|Void_Elf|192789|0.82%|
+|Troll|192769|0.81%|
+|Kul_Tiran|192739|0.80%|
+|Dwarf|192719|0.79%|
+|Zandalari_Troll_Paku|192559|0.70%|
+|Tauren|192550|0.70%|
+|Nightborne|192548|0.70%|
+|Blood_Elf|192538|0.69%|
+|Worgen|192505|0.68%|
+|Night_Elf_Crit|192420|0.63%|
+|Orc|192294|0.56%|
+|Draenei|192212|0.52%|
+|Panda_Vers|192054|0.44%|
+|Dark_Iron_Dwarf|192013|0.42%|
+|Maghar_Orc|191959|0.39%|
+|Panda_Haste|191954|0.39%|
+|Panda_Fortune_Cookie|191931|0.37%|
+|Panda_Crit|191916|0.37%|
+|Panda_Mastery|191820|0.32%|
+|Zandalari_Troll_Bwonsamdi|191647|0.23%|
+|Zandalari_Troll_Kimbul|191501|0.15%|
+|Undead|191472|0.13%|
+|Lightforged_Draenei|191256|0.02%|
+|Vulpera|191243|0.02%|
+|Base|191214|0.00%|

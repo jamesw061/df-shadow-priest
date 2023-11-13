@@ -1,0 +1,34 @@
+# atal-tyran-push - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|212171|1.12%|
+|Dwarf|211677|0.88%|
+|Tauren|211627|0.86%|
+|Mechagnome|211617|0.85%|
+|Void_Elf|211544|0.82%|
+|Gnome|211475|0.79%|
+|Kul_Tiran|211473|0.79%|
+|Highmountain_Tauren|211377|0.74%|
+|Night_Elf_Haste|211360|0.73%|
+|Goblin|211355|0.73%|
+|Nightborne|211302|0.70%|
+|Zandalari_Troll_Paku|211260|0.68%|
+|Troll|211202|0.66%|
+|Blood_Elf|211181|0.65%|
+|Night_Elf_Crit|211153|0.63%|
+|Worgen|211038|0.58%|
+|Orc|210938|0.53%|
+|Draenei|210880|0.50%|
+|Panda_Vers|210606|0.37%|
+|Dark_Iron_Dwarf|210564|0.35%|
+|Panda_Crit|210509|0.33%|
+|Panda_Fortune_Cookie|210502|0.32%|
+|Maghar_Orc|210485|0.31%|
+|Panda_Mastery|210392|0.27%|
+|Panda_Haste|210256|0.21%|
+|Zandalari_Troll_Bwonsamdi|210061|0.11%|
+|Undead|210008|0.09%|
+|Zandalari_Troll_Kimbul|209942|0.06%|
+|Base|209825|0.00%|
+|Vulpera|209738|-0.04%|
+|Lightforged_Draenei|209682|-0.07%|

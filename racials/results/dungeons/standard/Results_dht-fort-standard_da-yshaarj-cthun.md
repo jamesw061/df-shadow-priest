@@ -1,0 +1,34 @@
+# dht-fort-standard - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|183994|0.98%|
+|Tauren|183775|0.86%|
+|Dwarf|183762|0.86%|
+|Mechagnome|183621|0.78%|
+|Void_Elf|183531|0.73%|
+|Highmountain_Tauren|183510|0.72%|
+|Kul_Tiran|183422|0.67%|
+|Blood_Elf|183385|0.65%|
+|Nightborne|183363|0.64%|
+|Zandalari_Troll_Paku|183289|0.60%|
+|Worgen|183265|0.58%|
+|Gnome|183261|0.58%|
+|Night_Elf_Crit|183222|0.56%|
+|Night_Elf_Haste|183222|0.56%|
+|Goblin|183220|0.56%|
+|Orc|183145|0.52%|
+|Draenei|183067|0.48%|
+|Troll|183009|0.44%|
+|Panda_Vers|182855|0.36%|
+|Dark_Iron_Dwarf|182783|0.32%|
+|Panda_Crit|182777|0.32%|
+|Panda_Fortune_Cookie|182751|0.30%|
+|Maghar_Orc|182663|0.25%|
+|Panda_Mastery|182519|0.18%|
+|Undead|182463|0.14%|
+|Zandalari_Troll_Bwonsamdi|182448|0.14%|
+|Zandalari_Troll_Kimbul|182321|0.07%|
+|Panda_Haste|182305|0.06%|
+|Lightforged_Draenei|182232|0.02%|
+|Base|182200|0.00%|
+|Vulpera|182146|-0.03%|

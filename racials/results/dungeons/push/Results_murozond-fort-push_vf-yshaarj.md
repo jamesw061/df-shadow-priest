@@ -1,0 +1,34 @@
+# murozond-fort-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|180221|1.49%|
+|Mechagnome|179676|1.18%|
+|Gnome|179544|1.11%|
+|Goblin|179495|1.08%|
+|Night_Elf_Haste|179479|1.07%|
+|Kul_Tiran|179449|1.05%|
+|Void_Elf|179440|1.05%|
+|Highmountain_Tauren|179326|0.98%|
+|Dwarf|179302|0.97%|
+|Nightborne|179299|0.97%|
+|Tauren|179251|0.94%|
+|Zandalari_Troll_Paku|179214|0.92%|
+|Troll|179134|0.88%|
+|Blood_Elf|179110|0.86%|
+|Night_Elf_Crit|179072|0.84%|
+|Worgen|179053|0.83%|
+|Orc|178958|0.78%|
+|Draenei|178798|0.69%|
+|Panda_Vers|178590|0.57%|
+|Dark_Iron_Dwarf|178564|0.56%|
+|Maghar_Orc|178515|0.53%|
+|Panda_Fortune_Cookie|178487|0.51%|
+|Panda_Crit|178392|0.46%|
+|Panda_Haste|178391|0.46%|
+|Panda_Mastery|178322|0.42%|
+|Zandalari_Troll_Bwonsamdi|178113|0.30%|
+|Undead|177966|0.22%|
+|Zandalari_Troll_Kimbul|177948|0.21%|
+|Lightforged_Draenei|177635|0.03%|
+|Vulpera|177617|0.02%|
+|Base|177577|0.00%|

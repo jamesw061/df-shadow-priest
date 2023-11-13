@@ -1,0 +1,34 @@
+# atal-fort-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|210922|1.18%|
+|Gnome|210320|0.89%|
+|Night_Elf_Haste|210307|0.88%|
+|Mechagnome|210263|0.86%|
+|Goblin|210261|0.86%|
+|Highmountain_Tauren|210058|0.76%|
+|Void_Elf|210055|0.76%|
+|Nightborne|210037|0.75%|
+|Kul_Tiran|210012|0.74%|
+|Dwarf|209963|0.72%|
+|Tauren|209962|0.72%|
+|Troll|209901|0.69%|
+|Blood_Elf|209891|0.68%|
+|Zandalari_Troll_Paku|209869|0.67%|
+|Night_Elf_Crit|209845|0.66%|
+|Worgen|209770|0.63%|
+|Orc|209577|0.53%|
+|Draenei|209511|0.50%|
+|Panda_Vers|209322|0.41%|
+|Maghar_Orc|209316|0.41%|
+|Dark_Iron_Dwarf|209284|0.39%|
+|Panda_Crit|209255|0.38%|
+|Panda_Fortune_Cookie|209194|0.35%|
+|Panda_Haste|209164|0.34%|
+|Panda_Mastery|209037|0.27%|
+|Zandalari_Troll_Kimbul|208882|0.20%|
+|Zandalari_Troll_Bwonsamdi|208856|0.19%|
+|Undead|208765|0.14%|
+|Vulpera|208610|0.07%|
+|Lightforged_Draenei|208553|0.04%|
+|Base|208464|0.00%|

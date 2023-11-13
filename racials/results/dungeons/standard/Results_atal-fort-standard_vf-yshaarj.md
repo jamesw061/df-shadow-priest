@@ -1,0 +1,34 @@
+# atal-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|187456|1.24%|
+|Troll|187193|1.10%|
+|Mechagnome|186858|0.92%|
+|Goblin|186847|0.91%|
+|Gnome|186792|0.88%|
+|Night_Elf_Haste|186766|0.87%|
+|Void_Elf|186596|0.78%|
+|Kul_Tiran|186536|0.74%|
+|Highmountain_Tauren|186532|0.74%|
+|Dwarf|186474|0.71%|
+|Blood_Elf|186472|0.71%|
+|Tauren|186469|0.71%|
+|Orc|186465|0.71%|
+|Nightborne|186461|0.70%|
+|Zandalari_Troll_Paku|186443|0.69%|
+|Worgen|186297|0.62%|
+|Night_Elf_Crit|186258|0.59%|
+|Draenei|186247|0.59%|
+|Dark_Iron_Dwarf|186049|0.48%|
+|Panda_Vers|185908|0.41%|
+|Panda_Fortune_Cookie|185897|0.40%|
+|Panda_Crit|185891|0.40%|
+|Maghar_Orc|185876|0.39%|
+|Panda_Haste|185815|0.35%|
+|Panda_Mastery|185630|0.25%|
+|Undead|185493|0.18%|
+|Zandalari_Troll_Bwonsamdi|185468|0.17%|
+|Zandalari_Troll_Kimbul|185328|0.09%|
+|Lightforged_Draenei|185161|0.00%|
+|Base|185158|0.00%|
+|Vulpera|185153|0.00%|

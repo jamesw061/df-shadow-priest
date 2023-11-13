@@ -1,0 +1,34 @@
+# Dungeons-Standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|218752|1.31%|
+|Gnome|218022|0.97%|
+|Night_Elf_Haste|218009|0.96%|
+|Goblin|217994|0.96%|
+|Mechagnome|217977|0.95%|
+|Void_Elf|217774|0.86%|
+|Kul_Tiran|217762|0.85%|
+|Highmountain_Tauren|217734|0.84%|
+|Dwarf|217652|0.80%|
+|Troll|217638|0.79%|
+|Nightborne|217608|0.78%|
+|Tauren|217593|0.77%|
+|Zandalari_Troll_Paku|217557|0.76%|
+|Blood_Elf|217496|0.73%|
+|Night_Elf_Crit|217434|0.70%|
+|Worgen|217360|0.66%|
+|Orc|217286|0.63%|
+|Draenei|217191|0.59%|
+|Panda_Vers|216919|0.46%|
+|Dark_Iron_Dwarf|216869|0.44%|
+|Panda_Haste|216805|0.41%|
+|Panda_Fortune_Cookie|216804|0.41%|
+|Maghar_Orc|216798|0.40%|
+|Panda_Crit|216768|0.39%|
+|Panda_Mastery|216623|0.32%|
+|Zandalari_Troll_Bwonsamdi|216290|0.17%|
+|Undead|216260|0.15%|
+|Zandalari_Troll_Kimbul|216232|0.14%|
+|Lightforged_Draenei|215944|0.01%|
+|Vulpera|215930|0.00%|
+|Base|215927|0.00%|

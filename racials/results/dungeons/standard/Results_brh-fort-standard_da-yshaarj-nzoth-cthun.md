@@ -1,0 +1,34 @@
+# brh-fort-standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|220943|1.20%|
+|Troll|220666|1.07%|
+|Goblin|220570|1.02%|
+|Tauren|220516|1.00%|
+|Dwarf|220506|1.00%|
+|Night_Elf_Haste|220477|0.98%|
+|Gnome|220457|0.97%|
+|Mechagnome|220406|0.95%|
+|Highmountain_Tauren|220335|0.92%|
+|Kul_Tiran|220298|0.90%|
+|Void_Elf|220274|0.89%|
+|Nightborne|220186|0.85%|
+|Zandalari_Troll_Paku|220152|0.83%|
+|Orc|220113|0.82%|
+|Blood_Elf|220057|0.79%|
+|Worgen|219945|0.74%|
+|Night_Elf_Crit|219937|0.73%|
+|Draenei|219752|0.65%|
+|Dark_Iron_Dwarf|219545|0.56%|
+|Panda_Vers|219443|0.51%|
+|Maghar_Orc|219436|0.51%|
+|Panda_Crit|219355|0.47%|
+|Panda_Fortune_Cookie|219231|0.41%|
+|Panda_Haste|219163|0.38%|
+|Panda_Mastery|219054|0.33%|
+|Zandalari_Troll_Bwonsamdi|218838|0.23%|
+|Zandalari_Troll_Kimbul|218670|0.15%|
+|Undead|218642|0.14%|
+|Vulpera|218387|0.02%|
+|Base|218333|0.00%|
+|Lightforged_Draenei|218267|-0.03%|

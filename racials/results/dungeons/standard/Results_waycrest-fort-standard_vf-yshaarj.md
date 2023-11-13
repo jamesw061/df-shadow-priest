@@ -1,0 +1,34 @@
+# waycrest-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|192211|1.45%|
+|Gnome|191673|1.17%|
+|Night_Elf_Haste|191666|1.16%|
+|Goblin|191647|1.15%|
+|Mechagnome|191457|1.05%|
+|Kul_Tiran|191237|0.94%|
+|Void_Elf|191200|0.92%|
+|Highmountain_Tauren|191193|0.91%|
+|Tauren|191105|0.87%|
+|Nightborne|191096|0.86%|
+|Dwarf|191095|0.86%|
+|Blood_Elf|190943|0.78%|
+|Zandalari_Troll_Paku|190943|0.78%|
+|Worgen|190869|0.74%|
+|Night_Elf_Crit|190841|0.73%|
+|Troll|190819|0.72%|
+|Orc|190733|0.67%|
+|Draenei|190717|0.66%|
+|Panda_Haste|190504|0.55%|
+|Dark_Iron_Dwarf|190428|0.51%|
+|Panda_Fortune_Cookie|190344|0.47%|
+|Panda_Vers|190320|0.45%|
+|Maghar_Orc|190289|0.44%|
+|Panda_Crit|190285|0.43%|
+|Panda_Mastery|189966|0.27%|
+|Zandalari_Troll_Bwonsamdi|189747|0.15%|
+|Undead|189736|0.14%|
+|Zandalari_Troll_Kimbul|189669|0.11%|
+|Vulpera|189479|0.01%|
+|Base|189462|0.00%|
+|Lightforged_Draenei|189406|-0.03%|

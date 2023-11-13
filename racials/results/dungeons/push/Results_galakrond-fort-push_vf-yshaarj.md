@@ -1,0 +1,34 @@
+# galakrond-fort-push - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|200427|1.34%|
+|Gnome|199778|1.01%|
+|Mechagnome|199749|1.00%|
+|Night_Elf_Haste|199726|0.98%|
+|Void_Elf|199667|0.95%|
+|Highmountain_Tauren|199644|0.94%|
+|Goblin|199598|0.92%|
+|Kul_Tiran|199557|0.90%|
+|Nightborne|199408|0.82%|
+|Dwarf|199401|0.82%|
+|Zandalari_Troll_Paku|199365|0.80%|
+|Tauren|199351|0.79%|
+|Troll|199318|0.78%|
+|Blood_Elf|199286|0.76%|
+|Night_Elf_Crit|199253|0.74%|
+|Worgen|199153|0.69%|
+|Orc|199133|0.68%|
+|Draenei|199051|0.64%|
+|Panda_Vers|198757|0.49%|
+|Dark_Iron_Dwarf|198632|0.43%|
+|Panda_Fortune_Cookie|198594|0.41%|
+|Panda_Haste|198578|0.40%|
+|Maghar_Orc|198550|0.39%|
+|Panda_Crit|198524|0.38%|
+|Panda_Mastery|198454|0.34%|
+|Zandalari_Troll_Bwonsamdi|198262|0.24%|
+|Zandalari_Troll_Kimbul|198117|0.17%|
+|Undead|198069|0.15%|
+|Base|197780|0.00%|
+|Vulpera|197755|-0.01%|
+|Lightforged_Draenei|197699|-0.04%|

@@ -1,0 +1,34 @@
+# brh-fort-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|224413|1.50%|
+|Goblin|223877|1.26%|
+|Night_Elf_Haste|223741|1.20%|
+|Gnome|223726|1.19%|
+|Void_Elf|223437|1.06%|
+|Mechagnome|223384|1.04%|
+|Troll|223125|0.92%|
+|Highmountain_Tauren|223114|0.91%|
+|Kul_Tiran|223025|0.87%|
+|Dwarf|222961|0.84%|
+|Tauren|222959|0.84%|
+|Nightborne|222863|0.80%|
+|Zandalari_Troll_Paku|222833|0.79%|
+|Blood_Elf|222826|0.78%|
+|Worgen|222720|0.74%|
+|Night_Elf_Crit|222677|0.72%|
+|Orc|222565|0.67%|
+|Draenei|222541|0.65%|
+|Panda_Haste|222317|0.55%|
+|Panda_Vers|222179|0.49%|
+|Panda_Fortune_Cookie|222077|0.45%|
+|Dark_Iron_Dwarf|222038|0.43%|
+|Panda_Crit|222004|0.41%|
+|Maghar_Orc|222000|0.41%|
+|Panda_Mastery|221837|0.34%|
+|Zandalari_Troll_Kimbul|221432|0.15%|
+|Zandalari_Troll_Bwonsamdi|221376|0.13%|
+|Undead|221350|0.12%|
+|Base|221093|0.00%|
+|Lightforged_Draenei|221075|-0.01%|
+|Vulpera|221070|-0.01%|

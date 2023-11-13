@@ -1,0 +1,34 @@
+# murozond-tyran-standard - vf-yshaarj
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|173194|1.40%|
+|Mechagnome|172598|1.05%|
+|Goblin|172588|1.05%|
+|Gnome|172529|1.01%|
+|Night_Elf_Haste|172521|1.01%|
+|Void_Elf|172404|0.94%|
+|Highmountain_Tauren|172316|0.89%|
+|Tauren|172314|0.89%|
+|Kul_Tiran|172264|0.86%|
+|Nightborne|172245|0.85%|
+|Dwarf|172209|0.82%|
+|Zandalari_Troll_Paku|172135|0.78%|
+|Blood_Elf|172104|0.76%|
+|Troll|172074|0.75%|
+|Worgen|172053|0.73%|
+|Night_Elf_Crit|171999|0.70%|
+|Draenei|171882|0.63%|
+|Orc|171859|0.62%|
+|Panda_Vers|171681|0.52%|
+|Dark_Iron_Dwarf|171542|0.43%|
+|Panda_Crit|171539|0.43%|
+|Panda_Fortune_Cookie|171537|0.43%|
+|Panda_Haste|171470|0.39%|
+|Maghar_Orc|171465|0.39%|
+|Panda_Mastery|171323|0.31%|
+|Zandalari_Troll_Bwonsamdi|171131|0.19%|
+|Undead|171097|0.17%|
+|Zandalari_Troll_Kimbul|171090|0.17%|
+|Lightforged_Draenei|170824|0.01%|
+|Base|170801|0.00%|
+|Vulpera|170782|-0.01%|

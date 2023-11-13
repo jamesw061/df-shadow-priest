@@ -1,0 +1,34 @@
+# everbloom-fort-standard - da-yshaarj-nzoth-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|201289|1.12%|
+|Tauren|200850|0.90%|
+|Mechagnome|200815|0.88%|
+|Dwarf|200769|0.86%|
+|Troll|200736|0.84%|
+|Gnome|200722|0.83%|
+|Goblin|200713|0.83%|
+|Night_Elf_Haste|200669|0.81%|
+|Highmountain_Tauren|200552|0.75%|
+|Void_Elf|200513|0.73%|
+|Kul_Tiran|200505|0.73%|
+|Nightborne|200471|0.71%|
+|Blood_Elf|200435|0.69%|
+|Night_Elf_Crit|200430|0.69%|
+|Zandalari_Troll_Paku|200413|0.68%|
+|Orc|200378|0.66%|
+|Worgen|200225|0.59%|
+|Draenei|200201|0.57%|
+|Dark_Iron_Dwarf|200081|0.51%|
+|Maghar_Orc|199917|0.43%|
+|Panda_Vers|199901|0.42%|
+|Panda_Crit|199841|0.39%|
+|Panda_Fortune_Cookie|199828|0.39%|
+|Panda_Haste|199684|0.31%|
+|Panda_Mastery|199648|0.30%|
+|Zandalari_Troll_Bwonsamdi|199325|0.13%|
+|Undead|199311|0.13%|
+|Zandalari_Troll_Kimbul|199271|0.11%|
+|Vulpera|199119|0.03%|
+|Lightforged_Draenei|199090|0.02%|
+|Base|199060|0.00%|

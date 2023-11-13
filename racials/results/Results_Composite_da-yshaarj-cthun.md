@@ -1,0 +1,34 @@
+# Composite - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|219372|1.33%|
+|Void_Elf|219129|1.22%|
+|Troll|219115|1.21%|
+|Dwarf|219010|1.16%|
+|Tauren|218986|1.15%|
+|Mechagnome|218662|1.00%|
+|Blood_Elf|218598|0.97%|
+|Orc|218541|0.95%|
+|Kul_Tiran|218482|0.92%|
+|Highmountain_Tauren|218461|0.91%|
+|Nightborne|218447|0.90%|
+|Goblin|218432|0.90%|
+|Zandalari_Troll_Paku|218369|0.87%|
+|Gnome|218328|0.85%|
+|Night_Elf_Haste|218310|0.84%|
+|Night_Elf_Crit|218208|0.79%|
+|Worgen|218201|0.79%|
+|Draenei|217981|0.69%|
+|Dark_Iron_Dwarf|217949|0.67%|
+|Maghar_Orc|217616|0.52%|
+|Panda_Crit|217526|0.48%|
+|Panda_Vers|217515|0.47%|
+|Panda_Fortune_Cookie|217431|0.44%|
+|Panda_Mastery|217252|0.35%|
+|Panda_Haste|217050|0.26%|
+|Zandalari_Troll_Bwonsamdi|216970|0.22%|
+|Zandalari_Troll_Kimbul|216901|0.19%|
+|Undead|216900|0.19%|
+|Lightforged_Draenei|216540|0.02%|
+|Base|216489|0.00%|
+|Vulpera|216464|-0.01%|

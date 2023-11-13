@@ -1,0 +1,34 @@
+# waycrest-fort-push - da-yshaarj-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Human|224865|1.14%|
+|Gnome|224464|0.96%|
+|Dwarf|224457|0.96%|
+|Mechagnome|224424|0.95%|
+|Tauren|224410|0.94%|
+|Goblin|224366|0.92%|
+|Night_Elf_Haste|224355|0.91%|
+|Highmountain_Tauren|224165|0.83%|
+|Troll|224122|0.81%|
+|Void_Elf|224099|0.80%|
+|Kul_Tiran|224041|0.77%|
+|Nightborne|223944|0.73%|
+|Zandalari_Troll_Paku|223944|0.73%|
+|Blood_Elf|223834|0.68%|
+|Orc|223802|0.67%|
+|Worgen|223802|0.67%|
+|Night_Elf_Crit|223788|0.66%|
+|Draenei|223497|0.53%|
+|Dark_Iron_Dwarf|223318|0.45%|
+|Panda_Crit|223240|0.41%|
+|Panda_Vers|223233|0.41%|
+|Maghar_Orc|223204|0.40%|
+|Panda_Fortune_Cookie|223111|0.35%|
+|Panda_Haste|223063|0.33%|
+|Panda_Mastery|222954|0.28%|
+|Zandalari_Troll_Kimbul|222596|0.12%|
+|Zandalari_Troll_Bwonsamdi|222591|0.12%|
+|Undead|222490|0.08%|
+|Base|222323|0.00%|
+|Vulpera|222279|-0.02%|
+|Lightforged_Draenei|222267|-0.03%|
